@@ -9,3 +9,6 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/az-400?wt.mc_id=lear
 ## yaml config cheet sheet
 
 https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema
+
+## COURSE
+https://www.bretfisher.com/
